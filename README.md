@@ -4,8 +4,8 @@
 
 **Premium Web Design · Lead Generation · Brand Strategy**
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-Visit_Portfolio-7c3aed?style=for-the-badge)](https://chaudharyzaid56-lang.github.io/zarix-portfolio/)
-[![GitHub Pages](https://img.shields.io/badge/Deployed_on-GitHub_Pages-222?style=for-the-badge&logo=github)](https://chaudharyzaid56-lang.github.io/zarix-portfolio/)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-Visit_Portfolio-7c3aed?style=for-the-badge)](https://zarixlabs.github.io/zarix-portfolio/)
+[![GitHub Pages](https://img.shields.io/badge/Deployed_on-GitHub_Pages-222?style=for-the-badge&logo=github)](https://zarixlabs.github.io/zarix-portfolio/)
 [![License](https://img.shields.io/badge/License-All_Rights_Reserved-333?style=for-the-badge)](./LICENSE)
 
 <br />
@@ -88,7 +88,7 @@ zarix-portfolio/
 
 ```bash
 # Clone the repository
-git clone https://github.com/chaudharyzaid56-lang/zarix-portfolio.git
+git clone https://github.com/zarixlabs/zarix-portfolio.git
 
 # Navigate to the project
 cd zarix-portfolio
@@ -112,7 +112,7 @@ Every push to `main` triggers a fresh deployment — no manual steps required.
 | Source | `main` branch |
 | Build | GitHub Actions (`deploy.yml`) |
 | Host | GitHub Pages |
-| URL | [chaudharyzaid56-lang.github.io/zarix-portfolio](https://chaudharyzaid56-lang.github.io/zarix-portfolio/) |
+| URL | [zarixlabs.github.io/zarix-portfolio](https://zarixlabs.github.io/zarix-portfolio/) |
 
 ---
 
@@ -122,7 +122,7 @@ Every push to `main` triggers a fresh deployment — no manual steps required.
 
 [![Email](https://img.shields.io/badge/Email-zarixagency@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zarixagency@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@zarix.digital-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zarix.digital)
-[![GitHub](https://img.shields.io/badge/GitHub-@chaudharyzaid56--lang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaudharyzaid56-lang)
+[![GitHub](https://img.shields.io/badge/GitHub-@zarixlabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zarixlabs)
 
 </div>
 
@@ -130,7 +130,7 @@ Every push to `main` triggers a fresh deployment — no manual steps required.
 
 <div align="center">
 
-**Built with ❤️ by [Zarix](https://chaudharyzaid56-lang.github.io/zarix-portfolio/)**
+**Built with ❤️ by [Zarix](https://zarixlabs.github.io/zarix-portfolio/)**
 
 © 2026 Zarix. All rights reserved.
 
